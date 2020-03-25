@@ -1,0 +1,38 @@
+{
+  "name": "pxblue-search-bar-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.6.1",
+    "@material-ui/icons": "^3.0.1",
+    "@pxblue/themes": "^1.0.25",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "cy:run": "cypress run",
+    "cypress:open": "cypress open",
+    "cytest": "start-server-and-test start http://localhost:3000 cy:run"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "Firefox ESR",
+    "IE 11",
+    "Edge 16",
+    "Safari 11"
+  ],
+  "devDependencies": {
+    "cypress": "^3.4.1",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "start-server-and-test": "^1.7.11"
+  }
+}
