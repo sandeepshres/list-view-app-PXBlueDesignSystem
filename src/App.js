@@ -124,7 +124,7 @@ class App extends React.Component {
                   <Hidden smDown>
                     {item.metaData.data === "pending" &&
                       <Grid item sm={1}>
-                        <ListItemText secondary={item.metaData.data} style={{ backgroundColor: '#f0cb2f', textAlign: 'center' }} />
+                        <ListItemText secondary={item.metaData.data} style={{ backgroundColor: item.metaData.backgroundColor, textAlign: 'center' }} />
                       </Grid>
                     }
                   </Hidden>

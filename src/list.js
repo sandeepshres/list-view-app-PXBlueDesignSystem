@@ -7,7 +7,7 @@ exports.gradeItems = [
     "studentName": "Minh Le",
     "metaData": {
       "data": "complete",
-      "background-color": "green"
+      "backgroundColor": "green"
     }
   },
   {
@@ -18,7 +18,7 @@ exports.gradeItems = [
     "studentName": "Harish Pulukuru",
     "metaData": {
       "data": "complete",
-      "background-color": "green"
+      "backgroundColor": "green"
     }
   },
   {
@@ -29,7 +29,7 @@ exports.gradeItems = [
     "studentName": "Vineet Pandita",
     "metaData": {
       "data": "complete",
-      "background-color": "green"
+      "backgroundColor": "green"
     }
   },
   {
@@ -40,7 +40,7 @@ exports.gradeItems = [
     "studentName": "Zafar Anwar",
     "metaData": {
       "data": "complete",
-      "background-color": "green"
+      "backgroundColor": "green"
     }
   },
   {
@@ -51,7 +51,7 @@ exports.gradeItems = [
     "studentName": "Srabani Nayak",
     "metaData": {
       "data": "complete",
-      "background-color": "green"
+      "backgroundColor": "green"
     }
   },
   {
@@ -62,7 +62,7 @@ exports.gradeItems = [
     "studentName": "Prasanna Kasthuri",
     "metaData": {
       "data": "pending",
-      "background-color": "yellow"
+      "backgroundColor": "#f0cb2f"
     }
   },
   {
@@ -73,7 +73,7 @@ exports.gradeItems = [
     "studentName": "Mary Paulina Daniel",
     "metaData": {
       "data": "complete",
-      "background-color": "green"
+      "backgroundColor": "green"
     }
   },
   {
@@ -84,7 +84,7 @@ exports.gradeItems = [
     "studentName": "Abinav Munshi",
     "metaData": {
       "data": "pending",
-      "background-color": "yellow"
+      "backgroundColor": "#f0cb2f"
     }
   }
 ];
