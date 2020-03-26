@@ -29,9 +29,9 @@ it('filters search results correctly', () => {
         }
       },
       {
-        "id": 1,
+        "id": 2,
         "grade": "F",
-        "className": "Science 101",
+        "className": "Science 102",
         "teacherName": "Prof. Vinay",
         "studentName": "zzz",
         "metaData": {
@@ -40,14 +40,14 @@ it('filters search results correctly', () => {
         }
       },
       {
-        "id": 1,
+        "id": 3,
         "grade": "F",
-        "className": "Science 101",
+        "className": "Science 103",
         "teacherName": "Prof. Vinay",
         "studentName": "xxx",
         "metaData": {
-          "data": "complete",
-          "background-color": "green"
+          "data": "pending",
+          "background-color": "ellow"
         }
       }
     ]
